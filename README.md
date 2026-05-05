@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Josh! 👋</h1>
+<h1>hello world, I'm Josh! 👋</h1>
 I like building things that interact with the real world.
 
 ## My Tech Stack
