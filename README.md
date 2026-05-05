@@ -1,5 +1,5 @@
 <h1>Hey there, I'm Josh! 👋</h1>
-I like building things that exist in the real world.
+I like building things that interact with the real world.
 
 ## My Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
