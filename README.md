@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h2>Hey there, I'm Josh! 👋</h2>
+Embedded Systems Hobbyist and Programmer
 <!--
 **Josh-Wild-Dev/Josh-Wild-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
