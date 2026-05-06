@@ -36,6 +36,4 @@ typedef struct {
   <img src="https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 Thanks for stopping by! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1vdzkybWNubGVrN2kycmswdnoxZGJnYzZoZGo1d2xvc3E2MnVsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JRsQiAN79bPWUv43Ko/giphy.gif" width="50" style="vertical-align: bottom;">
