@@ -4,6 +4,7 @@
 <p><em>I like building things that interact with the real world.</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuadwild)
+[![Email](https://img.shields.io/badge/Email-CC0000?style=flat&logo=maildotru&logoColor=white)](mailto:josh@joshwild.dev)
 [![GitHub](https://img.shields.io/github/followers/JoshWildDev)](https://github.com/JoshWildDev)
 
 ```c++
