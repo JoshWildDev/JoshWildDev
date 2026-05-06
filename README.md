@@ -6,11 +6,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuadwild)
 [![Github](https://img.shields.io/github/followers/JoshWildDev)](https://github.com/JoshWildDev)
 
-```C++
+```c++
 typedef struct {
-  char* education  = "Marquette University";
+  char* education  = "University";
   char* focus_area = "Embedded Systems & Low-Level Computing";
-  char* location   = "Chicago, IL";
+  char* location   = "PLACE";
 } AboutMe;
 ```
 
