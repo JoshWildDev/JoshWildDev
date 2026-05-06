@@ -1,24 +1,21 @@
 <h2>Hey there, I'm Josh! 👋</h2>
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVmYXBydnM3Y3l5a2oxN3BnNTF0djhkanplZnIzcXNlZmpqOGE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" width="100">
 
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVmYXBydnM3Y3l5a2oxN3BnNTF0djhkanplZnIzcXNlZmpqOGE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" width="200" style="position:relative; top:-20px;">
-<p><em>I like building things that interact with the real world.</a></br>
-
-
-</em></p>
+<p><em>I like building things that interact with the real world.</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuadwild)
-[![Github](https://img.shields.io/github/followers/JoshWildDev)](https://github.com/JoshWildDev)
+[![GitHub](https://img.shields.io/github/followers/JoshWildDev)](https://github.com/JoshWildDev)
 
 ```c++
 typedef struct {
-  char* education  = "Marquette University";
+  char* education  = "University";
   char* focus_area = "Embedded Systems & Low-Level Computing";
-  char* location   = "Chicago, IL";
+  char* location   = "LOCATION";
 } AboutMe;
 ```
 
 <h2>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M2czEzZG5hNXAxN3F3b2o1Ymk0dHFtNjRvenBvY21xY3JxaTVmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="50" style="vertical-align: middle;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M2czEzZG5hNXAxN3F3b2o1Ymk0dHFtNjRvenBvY21xY3JxaTVmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="40">
   My Tech Stack
 </h2>
 
@@ -39,4 +36,17 @@ typedef struct {
   <img src="https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white" />
 </p>
 
-Thanks for stopping by! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1vdzkybWNubGVrN2kycmswdnoxZGJnYzZoZGo1d2xvc3E2MnVsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JRsQiAN79bPWUv43Ko/giphy.gif" width="50" style="vertical-align: bottom;">
+<p>
+I'm Josh! I am a Computer Science graduate passionate about embedded systems and low-level computing.
+
+I have worked as a Full-Stack Software Engineering Intern at <a target="_blank" href="https://www.istreamfs.com/">iStream Financial Services</a> in Brookfield, WI.
+
+My Projects Innclude:
+- Floralink
+- Heart Rate Monitor
+- Posture Monitor
+</p>
+
+<b>Thanks for stopping by!</b>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1vdzkybWNubGVrN2kycmswdnoxZGJnYzZoZGo1d2xvc3E2MnVsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JRsQiAN79bPWUv43Ko/giphy.gif" width="50"> 
+
