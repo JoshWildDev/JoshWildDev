@@ -42,10 +42,11 @@ I'm Josh! I am a Computer Science graduate passionate about health, video games,
 I have worked as a Full-Stack Software Engineering Intern at <a target="_blank" href="https://www.istreamfs.com/">iStream Financial Services</a> in Brookfield, WI.
 
 Here are some of my favorite projects I've worked on:
-- Floralink
-- Heart Rate Monitor
-- Posture Monitor
-- Terminal Expense Tracker
+- I wrote the firmware for the [Floralink project](https://github.com/JoshWildDev/floralink-firmware).
+- I created my own [HR and SpO2 monitoring device](https://github.com/JoshWildDev/heart-rate-monitor-infpsoc).
+- I created a [posture monitoring device](https://github.com/JoshWildDev/posture-monitor-project) using an ESP32-C3.
+- I wrote a [TUI expense tracking application](https://github.com/JoshWildDev/tui-expense-tracker) using Python.
+- I am designing a [productivity app](https://github.com/JoshWildDev/productivity-app) with Flutter.
 </p>
 
 <b>Thanks for stopping by!</b>
