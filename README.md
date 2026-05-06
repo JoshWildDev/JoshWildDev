@@ -30,7 +30,7 @@ typedef struct {
   <img src="https://img.shields.io/badge/BLE-0082FC?style=flat&logo=bluetooth&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00878A?style=flat&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-d4a61e?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white" />
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white" />
