@@ -37,14 +37,15 @@ typedef struct {
 </p>
 
 <p>
-I'm Josh! I am a Computer Science graduate passionate about embedded systems and low-level computing.
+I'm Josh! I am a Computer Science graduate passionate about health, video games, and all things low-level computing.
 
 I have worked as a Full-Stack Software Engineering Intern at <a target="_blank" href="https://www.istreamfs.com/">iStream Financial Services</a> in Brookfield, WI.
 
-My Projects Innclude:
+Here are some of my favorite projects I've worked on:
 - Floralink
 - Heart Rate Monitor
 - Posture Monitor
+- Terminal Expense Tracker
 </p>
 
 <b>Thanks for stopping by!</b>
