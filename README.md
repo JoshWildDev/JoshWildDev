@@ -8,9 +8,9 @@
 
 ```c++
 typedef struct {
-  char* education  = "University";
+  char* education  = "Marquette University";
   char* focus_area = "Embedded Systems & Low-Level Computing";
-  char* location   = "PLACE";
+  char* location   = "Chicago, IL";
 } AboutMe;
 ```
 
