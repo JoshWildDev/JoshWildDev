@@ -1,7 +1,7 @@
 <h2>Hey there, I'm Josh! 👋</h2>
 <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVmYXBydnM3Y3l5a2oxN3BnNTF0djhkanplZnIzcXNlZmpqOGE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" width="100">
 
-<p><em>I'm Josh! I am a Computer Science graduate passionate about health, video games, and all things low-level computing.</em></p>
+<p><em>I am a Computer Science graduate passionate about health, video games, and all things low-level computing.</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuadwild)
 [![Email](https://img.shields.io/badge/Email-CC0000?style=flat&logo=maildotru&logoColor=white)](mailto:josh@joshwild.dev)
