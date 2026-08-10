@@ -37,17 +37,6 @@ typedef struct {
   <img src="https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white" />
 </p>
 
-<p>
-I have worked as a Full-Stack Software Engineering Intern at <a target="_blank" href="https://www.istreamfs.com/">iStream Financial Services</a> in Brookfield, WI.
-
-Here are some of my favorite projects I've worked on:
-- I wrote the firmware for the [Floralink project](https://github.com/JoshWildDev/floralink-firmware).
-- I created my own [HR and SpO2 monitoring device](https://github.com/JoshWildDev/heart-rate-monitor-infpsoc).
-- I created a [posture monitoring device](https://github.com/JoshWildDev/posture-monitor-project) using an ESP32-C3.
-- I wrote a [TUI expense tracking application](https://github.com/JoshWildDev/tui-expense-tracker) using Python.
-- I am designing a [productivity app](https://github.com/JoshWildDev/productivity-app) with Flutter.
-</p>
-
 <b>Thanks for stopping by!</b>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1vdzkybWNubGVrN2kycmswdnoxZGJnYzZoZGo1d2xvc3E2MnVsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JRsQiAN79bPWUv43Ko/giphy.gif" width="50"> 
 
