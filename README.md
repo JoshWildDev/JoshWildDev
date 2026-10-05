@@ -1,5 +1,5 @@
 <h2>Hey there, I'm Josh! 👋</h2>
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVmYXBydnM3Y3l5a2oxN3BnNTF0djhkanplZnIzcXNlZmpqOGE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" width="100">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVmYXBydnM3Y3l5a2oxN3BnNTF0djhkanplZnIzcXNlZmpqOGE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" width="100" margin-left="10px">
 
 <p><em>I am a Computer Science graduate passionate about health, video games, and all things low-level computing.</em></p>
 
