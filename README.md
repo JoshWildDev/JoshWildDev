@@ -33,5 +33,5 @@ typedef struct {
 </p>
 
 <b>Thanks for stopping by!</b>
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVmYXBydnM3Y3l5a2oxN3BnNTF0djhkanplZnIzcXNlZmpqOGE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" width="100">
+<img align='left' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVmYXBydnM3Y3l5a2oxN3BnNTF0djhkanplZnIzcXNlZmpqOGE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" width="100">
 
