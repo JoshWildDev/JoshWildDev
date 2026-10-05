@@ -3,10 +3,6 @@
 
 <p><em>I am a Computer Science graduate passionate about health, video games, and all things low-level computing.</em></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuadwild)
-[![Email](https://img.shields.io/badge/Email-CC0000?style=flat&logo=maildotru&logoColor=white)](mailto:josh@joshwild.dev)
-[![GitHub](https://img.shields.io/github/followers/JoshWildDev)](https://github.com/JoshWildDev)
-
 ```c++
 typedef struct {
   char* education  = "Marquette University";
